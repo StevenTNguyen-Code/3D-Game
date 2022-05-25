@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7c7c97f34721ac54ab2545dbe8a4a8d3
+  - enabled: 1
+    path: Assets/Scenes/Scene_Roll_Character.unity
+    guid: f96a08e2024b830418dcc69dbd55d679
+  - enabled: 1
+    path: Assets/Scenes/Scene_Credits.unity
+    guid: 1fb87d9328b57bf4abb8a19ed118931b
+  - enabled: 1
+    path: Assets/Scenes/Heart_Choice.unity
+    guid: b9d7d58278b313d4eb99b11913f75306
+  - enabled: 1
+    path: Assets/Scenes/3D_Game.unity
+    guid: f8f25b68f5863764cbe75bae5cea6bce
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a086fdf1a3a3725418f7c0711a66609f
+  m_configObjects: {}

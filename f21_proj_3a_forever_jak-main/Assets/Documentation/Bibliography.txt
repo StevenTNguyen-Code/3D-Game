@@ -1,0 +1,73 @@
+Name: Ariel Pingol, Steven Nguyen, Cole Beezley, Alexander Ilinykh
+Gitlab Username: RowelX
+Class: CS583 Game Programming Assignment 
+Assignment: Project 3A - Forever Jak 
+Unity Version: 2020.3.17f1
+
+Description: The objective for this assignment is to create a 3D Game. 
+
+
+Atrributions:
+	1. Ariel Pingol's Orginal art. I took this photo back on Janruary 2020 in Big Bear, CA.
+	   I changed the sky to a galaxy background to have that D&D theme.
+	   Edited Photo:https://drive.google.com/file/d/1tsSpcmfIJFO7_tsMvASsBa0q4YY-zUMv/view?usp=sharing
+	   Orginal Photo: https://drive.google.com/file/d/1PwSG7Ur8OnXQ9Ex0L1PEEmd8ARrSMnQr/view?usp=sharing
+	2.Ariel Pingol's Orginal art. I took this photo back on March 2019 in Mexico while on vacation.
+	   I changed the sky to a galaxy background to have that D&D theme.
+	   Edited Photo:https://drive.google.com/file/d/1Kx66ITYPGje3I9DQkpWHXrTA5r0DjHoW/view?usp=sharing
+	   Orginal Photo: https://drive.google.com/file/d/1Md0XZ7FofF9SMwsgoTOc6M81Roqog17F/view?usp=sharing
+	3.Ariel Pingol's Orginal art. I took this photo back on September 2018 in Anza-Borrego, CA for a photoshoot.
+	   I changed the sky to a galaxy background to have that D&D theme.
+	   Edited Photo:https://drive.google.com/file/d/1R1PAVvo-t6C1AqqdSBz6VgGRN4S6iZgu/view?usp=sharing
+	   Orginal Photo: https://drive.google.com/file/d/1b_4ZO761vjBh19QFl4Lkurl1x9MN2-rN/view?usp=sharing
+
+
+Sources:
+	1.Object Model founded on Sketchfab (free)
+		https://sketchfab.com/3d-models/jak-307b59407ea943b3ac57445551439e88
+	2.3D AI Tutorial
+		https://www.youtube.com/watch?v=UjkSFoLxesw
+
+Youtube Video Resources:
+“How to Animate Characters in Unity 3D | Animator Explained.” YouTube, IHeartGameDev, 31 May 2020,  https://www.youtube.com/watch?v=vApG8aYD5aI&ab_channel=iHeartGameDev.  
+
+Brackeys. “Third Person Movement in Unity.” YouTube, Brackeys, 24 May 2020, https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys. 
+
+“How to Import Character Model into Unity.” YouTube, Fui, 9 July 2020, https://www.youtube.com/watch?v=Q8lJpoUwaBA&ab_channel=Fui. 
+
+“Unity 3D How to Create a Terrain, Add Trees and Grass.” YouTube, A Webdesign, 25 Apr. 2020, https://www.youtube.com/watch?v=7vFZKLcK3aA&ab_channel=AWebdesign. 
+
+“How to Animate Characters in Unity 3D | Animation Transitions With Booleans.” YouTube, IHeartGameDev, 28 June 2020, https://www.youtube.com/?app=desktop. 
+
+“How to Change the Skybox in Unity.” YouTube, XyloBeta, 15 Aug. 2020, https://www.youtube.com/?app=desktop. 
+
+
+
+Assets:
+
+Jeffrey Fan. “Jak - Download Free 3D Model by Jeffrey Fan 2000.” Sketchfab, Jeffrey Fan 2000, 1 June 1969, https://sketchfab.com/3d-models/jak-307b59407ea943b3ac57445551439e88. 
+
+Mixamo, https://www.mixamo.com/#/?page=1&query=idle+gun&type=Motion%2CMotionPack. 
+
+Coin Asset taken from Unity Asset Store, https://assetstore.unity.com/packages/3d/props/potions-coin-and-box-of-pandora-pack-71778
+
+“Dream Forest Tree: 3d Trees.” Unity Asset Store, IL.ranch, https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297. 
+
+Bushes taken from Unity Asset Store, https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
+
+Picture frames with photos (Models and prefabs)
+		https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907
+Zombie (Models, prefabs, animations)
+		https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
+	Splash Screen: 
+
+ 		“Create Custom Logos with Designevo Free Logo Maker.” Designevo.com,     https://www.designevo.com/.  
+
+
+ Audio:
+ 	Jak and Daxter SoundTrack - Track 04 - Geyser Rock
+		Jak & Daxter Soundtrack - Track 04 - Geyser Rock. Gamesoundtrack, 2 Sept. 2009, https://www.youtube.com/watch?v=XTmLL8jB76c&		list=PLF296898380E24516&index=6&ab_channel=gamesoundtrack.
+
+	Coin Audio pickup sound taken from World of Warcraft
+

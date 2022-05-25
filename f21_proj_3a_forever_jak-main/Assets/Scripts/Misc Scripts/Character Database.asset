@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e815c06bff359f4bbedc161ae47ad83, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  heart:
+  - heartName: Blue Heart
+    HeartSprite: {fileID: 21300000, guid: 11497421820b4c44f8fa0bd0cc98f1fd, type: 3}
+  - heartName: Gold Heart
+    HeartSprite: {fileID: 21300000, guid: 0d3e542041db03f4bb7384d4b09364c3, type: 3}
+  - heartName: Green Heart
+    HeartSprite: {fileID: 21300000, guid: df20f90b61468cf46ac30fb4d258bdc1, type: 3}
+  - heartName: Purple Heart
+    HeartSprite: {fileID: 21300000, guid: accc512d8b38f394aa4cf98b48739728, type: 3}
+  - heartName: Red Heart
+    HeartSprite: {fileID: 21300000, guid: 15cc575b0d9a36846838578bfb080819, type: 3}
